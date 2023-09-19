@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Unna:wght@400;700&display=swap');
+
+/*@font-face {
+	font-family: firstfont;
+
+}*/
+
+body{
+	background-color: #000;
+	color: #fff;
+	font-family: sans-serif;
+	text-align: center;
+}
+
+h1 {
+	font-family: 'Unna', serif;
+}
+
+p{
+	font-family: monospace;
+}
+
+
+#bottom {
+	color: #bfdae0;
+	font-weight: bold;
+	font-family: 'Georgia', serif;
+}
+
+.top {
+	background-color: #fff;
+	border-radius: 0%; 
+	color: #000;
+	font-family: 'Unna', serif;
+	border: 1px solid green;
+	margin: 0 auto;
+	padding: 20px; 
+	width: 30%;
+	display: inline-block;
+
+}
+
+#picgalaxy{
+	width: 50%;
+}
+
+.nextto{
+	display: inline-block;
+}
+
+#special {
+	color: #00ff00;
+	font-family: monospace;
+}
+
+.highlighter{
+	color: #000;
+	background-color: #ff0072;
+}
